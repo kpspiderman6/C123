@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: darkslategrey;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: darkviolet;
+    color: floralwhite;
+}
+canvas{
+    border: rgb(107, 255, 102) solid ;
+    border-radius: 5px;
+}
